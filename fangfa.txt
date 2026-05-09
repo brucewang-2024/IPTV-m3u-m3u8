@@ -1,0 +1,18 @@
+1、
+docker部署iptv-spider
+抓取IPTV m3u
+
+https://www.youtube.com/watch?v=MpPa3llUTvI
+
+2、
+
+对上述抓取的接口链接进行转换为m3u文件，保存下载m3u
+
+https://iptv.cqshushu.com/txt2m3u.php
+
+
+3、
+对m3u进行proxy 解决播放断流不流畅问题
+
+
+
